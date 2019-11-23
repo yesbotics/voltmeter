@@ -1,2 +1,2 @@
-# voltmeter
+# Voltmeter arduino library
 
